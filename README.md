@@ -1,61 +1,186 @@
-# 🌐 Bhawna Bhadana — Portfolio
+<div align="center">
 
-> Personal portfolio website built from scratch — no frameworks, no templates.
+# 🚀 Bhawna Bhadana
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-C8FF00?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-eight-murex-7xbe1z36c8.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-BhawnaBhadana-9B7CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhawnaBhadana)
+### Full-Stack Developer • MERN Stack Enthusiast • Building Modern Web Experiences
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;Creating+Beautiful+User+Experiences" />
 
-## ✨ Features
+<br>
 
-- Custom animated cursor
-- Smooth scroll-reveal animations
-- Responsive across all screen sizes
-- Marquee ticker strip
-- Interactive skill chips & project cards
-- Live project links with real deployments
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-64FFDA?style=for-the-badge)](https://portfolio-eight-murex-7xbe1z36c8.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhawna_Bhadana-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BhawnaBhadana-181717?style=for-the-badge\&logo=github)](https://github.com/BhawnaBhadana)
+
+</div>
 
 ---
 
-## 🛠️ Built With
+# 👩‍💻 About This Portfolio
 
-- **HTML5** — semantic structure
-- **CSS3** — custom properties, animations, grid/flexbox
-- **Vanilla JavaScript** — IntersectionObserver, cursor, scroll effects
-- **Google Fonts** — Bebas Neue, Fraunces, DM Mono
-- **Vercel** — deployment
+Personal portfolio website built completely from scratch — **no frameworks, no templates.**
+
+Designed to showcase projects, technical skills, achievements, and development journey through a modern, responsive, and interactive user experience.
 
 ---
 
-## 🚀 Projects Featured
+# ✨ Features
 
-### Grace Era — E-Commerce Platform
-Full-stack MERN e-commerce SPA for women's fashion with JWT auth, Razorpay payments, and an admin dashboard.  
-🔗 [Live Demo](https://grace-era.vercel.app)
+🎨 Custom Animated Cursor
 
-### Nexora AI — AI Study Platform
-9-feature AI study assistant for Indian students with OpenAI + Gemini API, freemium tiers, and analytics.  
-🔗 [Live Demo](https://nexora-ai-beta-six.vercel.app)
+⚡ Smooth Scroll-Reveal Animations
+
+📱 Fully Responsive Design
+
+🏷️ Interactive Skill Chips
+
+🎯 Dynamic Project Cards
+
+📢 Marquee Ticker Strip
+
+🚀 Live Project Deployments
+
+🌙 Modern Dark UI
 
 ---
 
-## 📦 Run Locally
+# 🛠️ Built With
+
+### Frontend
+
+* HTML5 — Semantic Structure
+* CSS3 — Custom Properties, Grid & Flexbox
+* Vanilla JavaScript — Scroll Effects & Interactivity
+
+### Fonts
+
+* Bebas Neue
+* Fraunces
+* DM Mono
+
+### Deployment
+
+* Vercel
+
+---
+
+# 🚀 Featured Projects
+
+## 👗 Grace Era — E-Commerce Platform
+
+Full-stack MERN e-commerce platform for women's fashion featuring secure authentication, payment integration, and admin controls.
+
+### Features
+
+✅ JWT Authentication
+
+✅ Razorpay Integration
+
+✅ Admin Dashboard
+
+✅ Responsive UI
+
+✅ Product Management
+
+🔗 Live Demo
+
+https://grace-era.vercel.app/
+
+---
+
+## 🧠 Nexora AI — AI Study Platform
+
+An AI-powered learning platform designed for Indian students with productivity tools and intelligent assistance.
+
+### Features
+
+✅ OpenAI Integration
+
+✅ Gemini AI Integration
+
+✅ Smart Notes
+
+✅ Analytics Dashboard
+
+✅ Freemium Access Model
+
+🔗 Live Demo
+
+https://nexora-ai-beta-six.vercel.app/
+
+---
+
+# 📦 Run Locally
 
 ```bash
 git clone https://github.com/BhawnaBhadana/portfolio.git
+
 cd portfolio
-# Open index.html in your browser — no build step needed
 ```
 
----
+Open `index.html` in your browser.
 
-## 📬 Contact
-
-- 📧 bhawnabhadana89@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/bhawnabhadana)
-- 🐙 [GitHub](https://github.com/BhawnaBhadana)
+No build tools required.
 
 ---
 
-<p align="center">Made with 💚 by Bhawna Bhadana · Delhi, India</p>
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BhawnaBhadana&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhawnaBhadana&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhawnaBhadana&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+🚀 Multiple Live Deployments
+
+💻 Full-Stack MERN Development
+
+🎨 Modern UI/UX Design
+
+🌐 Production-Ready Applications
+
+📈 Continuous Learning & Innovation
+
+---
+
+# 📬 Contact
+
+📧 Email
+
+[bhawnabhadana89@gmail.com](mailto:bhawnabhadana89@gmail.com)
+
+💼 LinkedIn
+
+https://linkedin.com
+
+🐙 GitHub
+
+https://github.com/BhawnaBhadana
+
+🌐 Portfolio
+
+https://portfolio-eight-murex-7xbe1z36c8.vercel.app/
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+Made with 💚 by Bhawna Bhadana
+
+*"Design. Develop. Deploy. Repeat."*
+
+</div>
