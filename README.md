@@ -9,7 +9,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-64FFDA?style=for-the-badge)](https://portfolio-eight-murex-7xbe1z36c8.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhawna_Bhadana-0077B5?style=for-the-badge\&logo=linkedin)]https://www.linkedin.com/in/bhawnabhadana/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhawna_Bhadana-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/bhawnabhadana/)
 [![GitHub](https://img.shields.io/badge/GitHub-BhawnaBhadana-181717?style=for-the-badge\&logo=github)](https://github.com/BhawnaBhadana)
 
 </div>
@@ -163,7 +163,7 @@ No build tools required.
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/bhawnabhadana/
+(https://www.linkedin.com/in/bhawnabhadana/)
 
 🐙 GitHub
 
